@@ -1,0 +1,7 @@
+setup.py
+kchopy/__init__.py
+kchopy.egg-info/PKG-INFO
+kchopy.egg-info/SOURCES.txt
+kchopy.egg-info/dependency_links.txt
+kchopy.egg-info/not-zip-safe
+kchopy.egg-info/top_level.txt
