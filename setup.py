@@ -7,5 +7,5 @@ setup(name='kchopy',
       author='Kevin Kang Ik Cho',
       author_email='kevincho@bwh.harvard.edu',
       license='MIT',
-      packages=['funniest'],
+      packages=['kchopy'],
       zip_safe=False)
